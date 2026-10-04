@@ -1,17 +1,11 @@
 # Katki ve Moderasyon Kurallari
+## Klasör İsimlendirme Kuralları
 
-Bu depoya katkida bulunmak istediginiz icin tesekkurler! Duzeni korumak adina lutfen asagidaki adimlari izleyin:
+Projeye yeni notlar eklerken karmaşayı önlemek için klasör yapısının `Bolum/Sinif/Ders/` şeklinde olmasına dikkat edin. Klasörleri oluştururken şu kurallara uyun:
 
-## 1. Is Akisi (Workflow)
-1. Bu depoyu kendi hesabiniza **Fork** edin.
-2. Yeni bir dal (branch) olusturun: `git checkout -b ozellik/yeni-notlar`
-3. Notlarinizi ilgili klasore ekleyin.
-4. Degisiklikleri kaydedip kendi deponuza pushlayin.
-5. Ana depoya **Pull Request (PR)** acin.
-
-## 2. Dosya Formati ve Isimlendirme
-- Sadece `.md` (Markdown) veya `.pdf` formatindaki notlar kabul edilir.
-- Dosya isimlerinde Turkce karakter ve bosluk kullanmayin, alt tire (`_`) kullanin.
-- *Dogru ornek:* `Hafta3_Ortomiksovirusler.md`
-- *Yanlis ornek:* `hafta 3 ortomikso virusleri.md`
-- **Telif Hakki:** Lutfen dogrudan kitap sayfalarinin taranmis hallerini veya telif hakki ihlali yaratacak dokumanlari yuklemeyin. Kendi hazirladiginiz ders notlari ve ozetler olmalidir.
+* **Bölüm Adı:** Türkçe karakter (ç, ş, ğ, ü, ö, ı) kullanılmamalı ve boşluklar yerine alt çizgi (`_`) konulmalıdır. 
+  *(Örnek: `Bilgisayar_Muhendisligi`)*
+* **Sınıf Adı:** Rakam ve `_Sinif` formatında yazılmalıdır.
+  *(Örnek: `1_Sinif`, `2_Sinif`)*
+* **Ders Adı:** **Ders kodu** mutlaka kullanılmalı ve ders adı ile arasına alt çizgi (`_`) konulmalıdır. Türkçe karakter kullanılmamalıdır.
+  *(Örnek: `BLM101_Programlama`, `BLM201_Veri_Yapilari`)*

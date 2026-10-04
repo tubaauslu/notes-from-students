@@ -1,14 +1,18 @@
-#  Notes From Students
+## 📂 Klasör Yapısı
 
-Bu depo, ogrencilerin ders notlarini duzenli bir sekilde paylastigi ve birlikte buyuttugu bir bilgi havuzudur.
+Notlara daha kolay erişebilmek için repomuzda Bölüm / Sınıf / Ders hiyerarşisi kullanılmaktadır. Aradığınız notları bulmak veya projeye yeni not eklemek için bu yapıyı takip edebilirsiniz. 
 
-##  Klasor Yapisi
-Notlar donemlere ve derslere gore kategorize edilmistir:
-- `1_Sinif/`
-- `2_Sinif/`
-  - `Hayvan_Besleme_ve_Yem_Teknolojisi/`
-  - `Viroloji/`
-- `3_Sinif/`
+Örnek klasör ağacı şu şekildedir:
 
-##  Nasil Katkida Bulunabilirim?
-Not eklemek, mevcut notlari duzeltmek veya eksikleri gidermek isterseniz, lutfen [Katki Rehberi](CONTRIBUTING.md) dosyamizi okuyun.
+```text
+📁 notes_from_students
+ └── 📁 Bilgisayar_Muhendisligi
+      ├── 📁 1_Sinif
+      │    └── 📁 BLM101_Programlama
+      │         ├── vize_notlari.pdf
+      │         └── calisma_sorulari.docx
+      └── 📁 2_Sinif
+           └── 📁 BLM201_Veri_Yapilari
+                └── final_notu.pdf
+
+                
