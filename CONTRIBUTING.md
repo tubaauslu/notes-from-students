@@ -54,3 +54,38 @@ Projeye eklediğiniz notların (özellikle Markdown, Word veya PDF belgelerinin)
 
 **Kaynak ve Atıf Kuralı:**
 Notlarınızı derlerken ders kitapları, akademik makaleler, web siteleri veya başka öğrencilerin notlarından faydalandıysanız, belgenin sonuna mutlaka bir "Kaynaklar" bölümü eklemelisiniz. Doğrudan alınan metinlerin, kod bloklarının veya görsellerin orijinal kaynağı (kitap adı, sayfa numarası veya URL) açıkça belirtilmelidir.
+
+## 🚀 Katkı İş Akışı (Contribution Workflow)
+
+Projeye yeni notlar eklerken lütfen aşağıdaki adımları ve standartları takip edin:
+
+**1. Fork'u Güncel Tutma**
+Çalışmaya başlamadan ve yeni bir dal (branch) açmadan önce, kendi fork'unuzun ana repoyla (upstream) senkronize olduğundan emin olun:
+```bash
+git fetch upstream
+git checkout main
+git merge upstream/main## 🚀 Katkı İş Akışı (Contribution Workflow)
+
+2. Dal (Branch) İsimlendirme Kuralları
+Dal adları tutarlı olmalı, Türkçe karakter içermemeli ve yapılan işin türünü İngilizce bir ön ek ile belirtmelidir:
+
+Yeni içerik veya not ekleme: feat/ders-adi-notlar (Örn: feat/blm101-vize)
+
+Hata düzeltme (yanlış dosya vb.): fix/dosya-adi-duzeltme
+
+Dokümantasyon güncellemeleri: docs/readme-guncellemesi
+
+3. Commit Mesajı Kuralları
+Commit mesajlarınız ne yapıldığını net bir şekilde açıklamalıdır. Mesajın başına yapılan işin türünü ekleyin:
+
+feat: BLM101 programlama vize notları eklendi
+
+fix: klasör ismindeki yazım hatası düzeltildi
+
+docs: CONTRIBUTING dosyasına yeni kurallar eklendi
+
+4. Pull Request (PR) Başlık ve Açıklama Rehberi
+
+Başlık: PR başlığı, eklediğiniz içeriği kısa ve öz bir şekilde özetlemelidir (Örn: feat: Elektrik Devreleri final çalışma soruları).
+
+Açıklama: PR açıklamasında; notların hangi derse, döneme ve öğretim üyesine ait olduğunu belirtin. Notlarda eksik kısımlar veya belirtilmesi gereken özel durumlar varsa bunları mutlaka yazın.
