@@ -1,6 +1,4 @@
-# Sistem dosyalari
-.DS_Store
-Thumbs.db
-
-# Editor dosyalari
-.vscode/
+.idea/
+*.swp
+*.tmp
+~$*
