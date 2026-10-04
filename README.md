@@ -30,3 +30,6 @@ Sürekli yeni dersler eklendiği için repomuzda sabit bir **Bölüm / Sınıf /
 ## 🤝 Katkıda Bulunma
 
 Siz de elinizdeki notları paylaşarak bu arşive katkıda bulunabilirsiniz! Klasör ve dosya isimlendirme kuralları (Türkçe karakter kullanımı, ders kodu zorunluluğu vb.) hakkında detaylı bilgi için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.
+
+## ⚠️ İçerik Kaldırma
+Eğer bu repoda size ait olan ve izinsiz paylaşıldığını veya akademik kuralları ihlal ettiğini düşündüğünüz bir materyal (ders notu, slayt, vb.) varsa, kaldırma süreciyle ilgili detaylar için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyamızı inceleyin veya durumu bildirmek için doğrudan bir Issue açın.

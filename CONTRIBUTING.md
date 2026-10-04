@@ -36,3 +36,8 @@ Aşağıdaki materyallerin repoya eklenmesi **kesinlikle yasaktır**:
 * **Devam Eden Sınavlar:** Henüz süresi dolmamış/tamamlanmamış sınavlara, quizlere veya aktif ödevlere ait materyaller ve çözüm yolları. (Bu durum doğrudan akademik dürüstlük ihlalidir).
 * **Geçmiş Sınav Soruları:** Hocanın açıkça paylaşılmasına izin vermediği çıkmış sınav soruları.
 * **İzinsiz İçerikler:** Başka öğrencilere ait, izin alınmadan yüklenen ödevler, projeler ve kişisel notlar.
+
+### 🗑️ İçerik Kaldırma Talepleri (Takedown Requests)
+Repomuzda yer alan herhangi bir materyalin telif hakkınızı ihlal ettiğini veya izinsiz paylaşıldığını düşünüyorsanız (öğretim görevlileri, öğrenciler veya diğer hak sahipleri), lütfen bizimle iletişime geçin:
+* **İletişim Yolu:** GitHub üzerinden durumu anlatan yeni bir **Issue** açabilirsiniz.
+* **Sorumlu Kişi ve Hedef Süre:** Kaldırma talepleri, repo yöneticisi (@tubaauslu) tarafından en geç **48 saat (2 iş günü)** içerisinde incelenecek ve ihlal tespit edilmesi durumunda içerik derhal repodan silinecektir.
