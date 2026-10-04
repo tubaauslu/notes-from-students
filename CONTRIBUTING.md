@@ -89,3 +89,11 @@ docs: CONTRIBUTING dosyasına yeni kurallar eklendi
 Başlık: PR başlığı, eklediğiniz içeriği kısa ve öz bir şekilde özetlemelidir (Örn: feat: Elektrik Devreleri final çalışma soruları).
 
 Açıklama: PR açıklamasında; notların hangi derse, döneme ve öğretim üyesine ait olduğunu belirtin. Notlarda eksik kısımlar veya belirtilmesi gereken özel durumlar varsa bunları mutlaka yazın.
+
+## 📁 Dosya Formatı ve Boyut Kuralları
+
+Reponun boyutunu yönetilebilir tutmak ve düzeni sağlamak için aşağıdaki kurallara uyulmalıdır:
+
+* **PDF Boyut Sınırı:** Yüklenen PDF dosyalarının boyutu en fazla **25 MB** olmalıdır. Daha büyük dosyaları repoya eklemeden önce sıkıştırın veya parçalara bölün. Çok zaruri ve büyük dosyalar için Git LFS (Large File Storage) kullanımı değerlendirilmelidir.
+* **Görsellerin Konumu:** Markdown (`.md`) formatındaki notlarınıza görsel ekleyecekseniz, karmaşayı önlemek adına bu görselleri ilgili ders klasörünün içinde oluşturacağınız `images/` veya `assets/` adlı bir alt klasöre koyun (Örn: `BLM101_Programlama/images/grafik.png`).
+* **Klasör İsimlendirme:** Ders klasörleri oluşturulurken daima **DersKodu_DersAdi** formatı kullanılmalı, boşluklar yerine alt çizgi (`_`) konulmalı ve Türkçe karakter (ç, ş, ğ, ü, ö, ı) **kullanılmamalıdır** (Örn: `BLM201_Veri_Yapilari`).
