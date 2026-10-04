@@ -25,3 +25,14 @@ Yapay zeka (ChatGPT, Gemini vb.) ile üretilmiş ders özetleri veya notlar gön
 
 ### Hedef İnceleme Süresi
 Gönderilen PR'lar, ilgili bölümün yetkilileri tarafından aksi bir durum olmadıkça **en geç 3-5 iş günü** içerisinde incelenip sonuçlandırılacaktır.
+
+## ⚠️ İçerik Politikası ve Akademik Dürüstlük
+
+Repomuza eklenecek notlar, telif haklarına ve akademik dürüstlük kurallarına kesinlikle uymalıdır. Sadece kendi tuttuğunuz, derlediğiniz veya açık paylaşım izni olan özgün notları yükleyebilirsiniz.
+
+**Kurallar ve Yasaklı İçerik Örnekleri:**
+Aşağıdaki materyallerin repoya eklenmesi **kesinlikle yasaktır**:
+* **Hoca Slaytları ve Ders Kitapları:** Hocaların izni olmadan paylaşılan sunumlar (PPTX, PDF) ile telif hakkı ile korunan ders kitaplarının PDF kopyaları veya kitaptan doğrudan kopyalanan/taranan içerikler.
+* **Devam Eden Sınavlar:** Henüz süresi dolmamış/tamamlanmamış sınavlara, quizlere veya aktif ödevlere ait materyaller ve çözüm yolları. (Bu durum doğrudan akademik dürüstlük ihlalidir).
+* **Geçmiş Sınav Soruları:** Hocanın açıkça paylaşılmasına izin vermediği çıkmış sınav soruları.
+* **İzinsiz İçerikler:** Başka öğrencilere ait, izin alınmadan yüklenen ödevler, projeler ve kişisel notlar.
