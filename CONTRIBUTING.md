@@ -41,3 +41,16 @@ Aşağıdaki materyallerin repoya eklenmesi **kesinlikle yasaktır**:
 Repomuzda yer alan herhangi bir materyalin telif hakkınızı ihlal ettiğini veya izinsiz paylaşıldığını düşünüyorsanız (öğretim görevlileri, öğrenciler veya diğer hak sahipleri), lütfen bizimle iletişime geçin:
 * **İletişim Yolu:** GitHub üzerinden durumu anlatan yeni bir **Issue** açabilirsiniz.
 * **Sorumlu Kişi ve Hedef Süre:** Kaldırma talepleri, repo yöneticisi (@tubaauslu) tarafından en geç **48 saat (2 iş günü)** içerisinde incelenecek ve ihlal tespit edilmesi durumunda içerik derhal repodan silinecektir.
+
+## 📝 Üst Bilgi (Header) ve Atıf Kuralları
+
+Projeye eklediğiniz notların (özellikle Markdown, Word veya PDF belgelerinin) en üstünde, içeriğin bağlamını belirten kısa bir bilgi bölümü bulunmalıdır.
+
+**Örnek Üst Bilgi Formatı:**
+* **Ders:** (Örn: BLM101 Programlama)
+* **Dönem:** (Örn: 2023-2024 Güz)
+* **Öğretim Üyesi:** (Örn: Prof. Dr. Ad Soyad)
+* **Yazar (İsteğe Bağlı):** Gerçek adınızı, takma adınızı (nickname) veya GitHub kullanıcı adınızı yazabilir ya da bu alanı tamamen anonim bırakabilirsiniz.
+
+**Kaynak ve Atıf Kuralı:**
+Notlarınızı derlerken ders kitapları, akademik makaleler, web siteleri veya başka öğrencilerin notlarından faydalandıysanız, belgenin sonuna mutlaka bir "Kaynaklar" bölümü eklemelisiniz. Doğrudan alınan metinlerin, kod bloklarının veya görsellerin orijinal kaynağı (kitap adı, sayfa numarası veya URL) açıkça belirtilmelidir.
