@@ -33,3 +33,6 @@ Siz de elinizdeki notları paylaşarak bu arşive katkıda bulunabilirsiniz! Kla
 
 ## ⚠️ İçerik Kaldırma
 Eğer bu repoda size ait olan ve izinsiz paylaşıldığını veya akademik kuralları ihlal ettiğini düşündüğünüz bir materyal (ders notu, slayt, vb.) varsa, kaldırma süreciyle ilgili detaylar için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyamızı inceleyin veya durumu bildirmek için doğrudan bir Issue açın.
+
+## 📄 Lisans
+Bu arşivdeki notlar bilginin özgürce paylaşılması amacıyla **MIT Lisansı** altında sunulmaktadır. Katkıda bulunan herkes, paylaştığı içeriklerin açık kaynaklı olarak herkesin kullanımına açık olduğunu kabul etmiş sayılır.
